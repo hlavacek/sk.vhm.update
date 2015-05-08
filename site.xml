@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/sk.vhm.linkedresources.feature_1.0.1.201505081259.jar" id="sk.vhm.linkedresources.feature" version="1.0.1.201505081259">
+      <category name="linkedresources"/>
+   </feature>
+   <category-def name="linkedresources" label="Linked Resources"/>
+</site>
